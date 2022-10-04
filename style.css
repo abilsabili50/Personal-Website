@@ -251,7 +251,7 @@ aside.about {
 	margin-right: 2vw;
 }
 
-div.clear {
+div.clear > *:nth-child(odd) {
 	margin-right: 0 !important;
 }
 
